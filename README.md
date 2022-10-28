@@ -1,4 +1,4 @@
-# Sensitivity-Analysis-of-Shock-Distributions
+# Sensitivity Analysis of Shock Distributions in the World Economy
 
 ## Overview
 
