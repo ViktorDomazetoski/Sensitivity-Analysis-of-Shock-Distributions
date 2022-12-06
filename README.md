@@ -13,14 +13,10 @@ The purpose of the project is to model the network interconnectedness of countri
 
 The code is available as Jupyter notebooks. The easiest way to use the notebooks is to upload them to and run them in [Google Colab](https://research.google.com/colaboratory). The notebooks contain imports of the necessary Python libraries. There are no dependencies and no additional modules or libraries need to be installed. The notebooks have also been tested with a local installation of [Anaconda](https://www.anaconda.com/).
 
-## Known Limitations
-
-Add
-
 ## Authors
 
 - Viktor Domazetoski
-- Maryan Rizinski
+- [Maryan Rizinski](https://github.com/rizinski)
 - Dimitar Trajanov
 - Ljupco Kocarev
 
