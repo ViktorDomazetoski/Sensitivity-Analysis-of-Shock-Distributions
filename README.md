@@ -15,9 +15,9 @@ The code is available as Jupyter notebooks. The easiest way to use the notebooks
 
 ## Authors
 
-- Viktor Domazetoski
+- [Viktor Domazetoski](https://github.com/ViktorDomazetoski)
 - [Maryan Rizinski](https://github.com/rizinski)
-- Dimitar Trajanov
+- [Dimitar Trajanov](https://github.com/trajanov)
 - Ljupco Kocarev
 
 ## License
