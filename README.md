@@ -24,18 +24,19 @@ The code is available as Jupyter notebooks. The easiest way to use the notebooks
 
 Apache License 2.0
 
-<!-- 
 ## Citation
 
 If you use this project in your research, we would appreciate a citation to the following paper:
+
 ```bibtex
-@article{rizinski2022ethically,
-  title={Ethically Responsible Machine Learning in Fintech},
-  author={Rizinski, Maryan and Peshov, Hristijan and Mishev, Kostadin and Chitkushev, Lubomir T and Vodenska, Irena and Trajanov, Dimitar},
-  journal={IEEE Access},
-  volume={10},
-  pages={97531--97554},
-  year={2022},
-  publisher={IEEE}
+@article{domazetoski2023sensitivity,
+  title={Sensitivity analysis of shock distributions in the world economy},
+  author={Domazetoski, Viktor and Rizinski, Maryan and Trajanov, Dimitar and Kocarev, Ljupco},
+  journal={Plos one},
+  volume={18},
+  number={10},
+  pages={e0293524},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
-``` -->
+```
